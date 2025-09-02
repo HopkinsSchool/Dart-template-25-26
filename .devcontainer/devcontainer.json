@@ -1,0 +1,11 @@
+{
+  "name": "Dart Codespace",
+  "image": "dartlang/dart",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dart-code.dart-code"
+      ]
+    }
+  }
+}
